@@ -1,0 +1,26 @@
+{
+  "name": "gulp-angular-nu-validator",
+  "version": "1.0.0",
+  "description": "A gulp plugin to validate HTML code also for angular apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiotisci/gulp-angular-nu-validator.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "html-validator",
+    "html",
+    "angularjs",
+    "angular"
+  ],
+  "author": "fabiotisci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiotisci/gulp-angular-nu-validator/issues"
+  },
+  "homepage": "https://github.com/fabiotisci/gulp-angular-nu-validator#readme"
+}
